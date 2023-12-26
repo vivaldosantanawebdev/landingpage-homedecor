@@ -1,0 +1,59 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(homedecor-bkg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.row {
+  width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #524f52;
+
+}
+h2 {
+  font-size: 1rem;
+  color: #524f52;
+
+}
+
+.buffer {
+  height: 2rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #dd39c2;
+  border-color: #dd39c2;
+}
+
+.btn-primary:hover {
+  background-color: #c711a9 ;
+  border-color: #c711a9;
+}
+
+
+
+.btn-xl {
+  padding: 1rem 2rem;
+
+}
+
+hr {
+  border-color: #F05F44;
+  border-width: 3px;
+  max-width: 65px;
+}
